@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 깃허브 동일 문서에 먼저 2번 컴밋 해보고,
 젤 나중에 로컬문서를 수정해 보았다.  
+=======
+hi this is reform text
+hellow second test reform
+>>>>>>> 25e3475980f3d7229d1c76aa732951385ab5e365
